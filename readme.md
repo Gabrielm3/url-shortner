@@ -36,7 +36,7 @@ git clone https://github.com/Gabrielm3/url-shortner.git
 2. Navigate to the project folder:
 
 ```
-cd url-url-shortner
+cd url-shortner
 ```
 
 3. Run the project:
