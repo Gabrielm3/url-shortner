@@ -1,6 +1,6 @@
 # Go URL Shortener
 
-This is a project that showcases how to create a URL shortener in Go.
+This is a project that showcases how to create a URL shortener in Go with Tailwind CSS.
 
 Utilizing the following technologies and libraries:
 
